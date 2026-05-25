@@ -37,5 +37,6 @@ Os testes foram executados manualmente com foco em:
 ## Estrutura
 
 ```txt
-/relatorios  -> relatórios detalhados
+/relatorios
+/casos-de-testes
 ```
